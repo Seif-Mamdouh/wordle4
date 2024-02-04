@@ -9,6 +9,7 @@ https://wordle4.vercel.app/
 
 
 
+<img width="708" alt="Screenshot 2024-02-04 at 2 39 22 PM" src="https://github.com/Seif-Mamdouh/wordle4/assets/55955558/6465808e-8150-4809-9da3-e48e9b525e5d">
 
 
 
