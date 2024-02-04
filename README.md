@@ -1,3 +1,18 @@
+Wordle with a Twist.
+
+1) You can play as many games as you want
+2) You can Guess longer words 5 - 8 words
+
+https://wordle4.vercel.app/
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
