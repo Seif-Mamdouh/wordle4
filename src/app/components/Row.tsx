@@ -21,6 +21,8 @@ const Row = (props: Props) => {
             return "green";
           } else if (props.word.includes(guessedLetter)) {
             return "#FFDB58";
+          } else {
+            return "gray";
           }
         };
 
