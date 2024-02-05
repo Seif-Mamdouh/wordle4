@@ -116,6 +116,7 @@ export default function Home() {
         numberOfGuesses={0}
       />
       <RestartButton onClick={handleRestartGame} />
+      {numOfGuesses === maxNumOfGuesses && (<p> The Word is: {word} </p>)}
     </div>
   );
 }
