@@ -1,7 +1,7 @@
 Wordle with a Twist.
 
 1) You can play as many games as you want
-2) You can Guess longer words 5 - 8 words
+2) You can guess longer words with options 5 - 8 letters
 
 https://wordle4.vercel.app/
 
